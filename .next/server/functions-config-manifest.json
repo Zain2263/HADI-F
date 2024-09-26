@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "functions": {
+    "/": {},
+    "/ui/blog/[slug]": {},
+    "/ui/blog/category/[slug]": {},
+    "/ui/blogs": {},
+    "/ui/program/[slug]": {},
+    "/ui/programs": {},
+    "/ui/workshop-detail/[slug]": {},
+    "/ui/workshops": {}
+  }
+}

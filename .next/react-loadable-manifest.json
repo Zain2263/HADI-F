@@ -1,0 +1,39 @@
+{
+  "../components/panel/common/blog/BlogForm.jsx -> react-quill": {
+    "id": 71167,
+    "files": [
+      "static/chunks/eabe11fc.8bf4b08503ac7a4a.js",
+      "static/chunks/8446-fe3a3e9ccf3ddeca.js",
+      "static/chunks/1167.31c0b79ffeec4dac.js"
+    ]
+  },
+  "../components/panel/common/course/CourseForm.jsx -> react-quill": {
+    "id": 71167,
+    "files": [
+      "static/chunks/eabe11fc.8bf4b08503ac7a4a.js",
+      "static/chunks/8446-fe3a3e9ccf3ddeca.js",
+      "static/chunks/1167.31c0b79ffeec4dac.js"
+    ]
+  },
+  "../components/panel/common/workshop/WorkshopForm.jsx -> react-quill": {
+    "id": 71167,
+    "files": [
+      "static/chunks/eabe11fc.8bf4b08503ac7a4a.js",
+      "static/chunks/8446-fe3a3e9ccf3ddeca.js",
+      "static/chunks/1167.31c0b79ffeec4dac.js"
+    ]
+  },
+  "_app.jsx -> react-facebook-pixel": {
+    "id": 51767,
+    "files": [
+      "static/chunks/1767.deff80117412575c.js"
+    ]
+  },
+  "ui/blogs/index.jsx -> @/components/ui/blogs/BlogsItem": {
+    "id": 27281,
+    "files": [
+      "static/chunks/75fc9c18-f3a061bc3e46a13b.js",
+      "static/chunks/7281-01697ea65d714f06.js"
+    ]
+  }
+}
