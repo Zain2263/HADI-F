@@ -7,7 +7,7 @@ export const test_links = [
   },
   {
     _id: "648b08a51c9c4fcc9a68247e",
-    title: "Digital Media Marketing Mastery Course",
+    title: "Digital Media Marketing Mastery Course NEW",
     slug: "digital-media-marketing-mastery-course",
     test: "https://www.proprofs.com/quiz-school/ugc/story.php?title=digital-marketing-mastery-course-evaluation-quiz",
   },
